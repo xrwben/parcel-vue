@@ -1,0 +1,26 @@
+{
+  "name": "parcel-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.5.22",
+    "vue-hot-reload-api": "^2.3.1",
+    "vue-router": "^3.0.2"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^2.5.1",
+    "node-sass": "^4.11.0",
+    "parcel-bundler": "^1.11.0",
+    "sass": "^1.16.1",
+    "vue-template-compiler": "^2.5.22"
+  }
+}
