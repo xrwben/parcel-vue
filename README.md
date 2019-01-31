@@ -18,4 +18,10 @@
 
 #### 使用
 
-git 
+git clone https://github.com/xrwben/parcel-vue.git
+
+npm install 
+
+开发：npm run dev
+
+构建打包：npm run build
